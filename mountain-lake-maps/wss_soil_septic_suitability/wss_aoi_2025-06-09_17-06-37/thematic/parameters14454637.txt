@@ -1,0 +1,50 @@
+AoiSoilThematicMapID: 14454637
+CreationDateTime: "6/9/2025 5:03:48 PM"
+SdvAttributeName: "Septic Tank Absorption Fields (NY)"
+AggregationMethod: "Dominant Condition"
+TiebreakRule: 1
+UnitsofMeasure: ""
+ComponentPercentCutoff: 0
+InterpretNullsAsZero: "False"
+BeginningMonth: ""
+EndingMonth: ""
+LayerOption: ""
+TopDepth: 0
+BottomDepth: 0
+DepthUnits: ""
+PrimaryDataSelectOptionLabel: ""
+PrimaryDataSelectOption: ""
+SecondaryDataSelectOptionLabel: ""
+SecondaryDataSelectOption: ""
+HorizonAggregationMethod: "Weighted Average"
+ResultDataType: "String"
+ResultPrecision: ""
+ResultColumnName: "Septank_NY"
+SdvAttributeDescription: "Septic tank absorption fields are subsurface systems of perforated pipe or similar devices that distribute effluent from a septic tank into the soil. New York State Department of Health regulations allow installation of septic system absorption fields of varying designs, depending upon the depth of suitable soil material above any limitation in the natural soil at a site (New York State Department of Health, 1990). Where necessary, imported fill material may be used to elevate absorption trenches to at least the minimum distance of 24 inches above limiting soil horizons. The depth ranges of suitable material and corresponding types of absorption systems allowed are as follows:
+
+Less than 12 inches-no system allowed
+12 to 24 inches-alternative raised trench
+24 to 48 inches-conventional shallow trench
+More than 48 inches-conventional system
+
+The ratings in this interpretation are based on evaluation of the soil between depths of 12 and 48 inches. In addition, the bottom layer of the soil is evaluated for risk of seepage. This interpretation does not evaluate bedrock below the soil. The soil properties and site features considered are those that affect absorption of the effluent, construction and maintenance of the system, and public health.
+
+The soil properties and qualities that affect the absorption and effective treatment of wastewater effluent are saturated hydraulic conductivity (Ksat), depth to a seasonal high water table, depth to bedrock, depth to dense material, and susceptibility to flooding. Stones and boulders and a shallow depth to bedrock or dense material interfere with installation. Excessive slope may cause lateral seepage and surfacing of the effluent in downslope areas. In addition, the hazards of erosion and sedimentation increase as slope increases.
+ 
+Some soils are underlain by loose sand and gravel or fractured bedrock at a depth of less than 2 feet below the distribution lines. In these soils the absorption field may not adequately filter the effluent, particularly when the system is new. As a result, ground water may be contaminated.
+
+The ratings are both verbal and numerical. Rating class terms indicate the extent to which the soils are limited by all of the soil features that affect the specified use. ""Not limited"" indicates that the soil has features that are very favorable for the specified use. Good performance and very low maintenance can be expected. ""Somewhat limited"" indicates that the soil has features that are moderately favorable for the specified use. The limitations can be overcome or minimized by special planning, design, or installation. Fair performance and moderate maintenance can be expected. ""Very limited"" indicates that the soil has one or more features that are unfavorable for the specified use. The limitations generally cannot be overcome without major soil reclamation, special design, or expensive installation procedures. Poor performance and high maintenance can be expected.
+
+Numerical ratings indicate the severity of individual limitations. The ratings are shown as decimal fractions ranging from 0.01 to 1.00. They indicate gradations between the point at which a soil feature has the greatest negative impact on the use (1.00) and the point at which the soil feature is not a limitation (0.00).
+
+The map unit components listed for each map unit in the accompanying Summary by Map Unit table in Web Soil Survey or the Aggregation Report in Soil Data Viewer are determined by the aggregation method chosen, which is displayed on the report.  An aggregated rating class is shown for each map unit. The components listed for each map unit are only those that have the same rating class as listed for the map unit.  The percent composition of each component in a particular map unit is presented to help the user better understand the percentage of each map unit that has the rating presented.  
+
+Other components with different ratings may be present in each map unit.  The ratings for all components, regardless of the map unit aggregated rating, can be viewed by generating the Selected Soil Interpretations report with this interpretation included from the Soil Reports tab in Web Soil Survey or from the Soil Data Mart site. Onsite investigation may be needed to validate these interpretations and to confirm the identity of the soil on a given site.
+
+
+ 
+The information in this interpretation is based on criteria developed specifically for soils in New York. The information is not site specific and does not eliminate the need for onsite investigation of the soils.
+
+Reference:
+
+New York State Department of Health. 1990. Appendix 75-A of Part 75, Section 201(1)(1) of New York Public Health Law. Nassau and Suffolk Counties have a waiver from this portion of New York State Department of Health regulations."
